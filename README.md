@@ -11,13 +11,19 @@ In this activity, you and your teammates will create a high-level requirement sp
 Elect one of you to be the one that will document the requirment specs. They should be written directly in this README file. 
 
 ## System Requirements 
-
+The system should be accessable by chrome, firefox, safari, and edge. 
+The system should be hosted on a reliable web server to ensure consistent access and minimize downtime.
+Data backups should be performed regularly to prevent data loss in case of system failures or errors.
+User can access with 18mbps wifi
+Needs to work on mobile browsers
 ...
 
 ## User Requirements 
+User can create an account
 
 ### Functional 
-
+Users can input ingredients and generate AI recipes
+User must pay subscription fee for premium version
 ...
 
 ### Non-functional
